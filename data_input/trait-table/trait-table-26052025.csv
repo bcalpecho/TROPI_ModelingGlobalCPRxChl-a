@@ -1,0 +1,821 @@
+aphiaID,taxonID,class,order,scientificName,taxon_cpr_list,FG_complete,filter_or_not
+51,5808,NA,NA,Mollusca,Mollusc,na,0
+101,5591,Gastropoda,NA,Gastropoda,Gastropod,omnivore,0
+105,5373,Bivalvia,NA,Bivalvia,Bivalve,omnivore,0
+799,NA,NA,NA,NA,Nematoda,na,0
+883,5962,Polychaeta,NA,Polychaeta,Polychaete,na,0
+932,4581,Polychaeta,Phyllodocida,Alciopini,Alciopidae,carnivore,0
+933,4642,Polychaeta,Phyllodocida,Lopadorrhynchidae,Lopadorrhynchidae indet,carnivore,0
+1066,5478,NA,NA,Crustacea,Nauplii crustracean,na,0
+1069,5383,Branchiopoda,NA,Branchiopoda,Branchiopoda indet,na,0
+1071,5768,Malacostraca,NA,Malacostraca,Megalope,na,0
+1078,5891,Ostracoda,NA,Ostracoda,Ostracod,omnivore,0
+1082,5441,Thecostraca,NA,Cirripedia,Barnacle cyprid,omnivore,0
+1100,601,Copepoda,Calanoida,Calanoida,Calanoid copepods (small),omnivore,0
+1101,3774,Copepoda,Cyclopoida,Cyclopoida,Poecilostomatoida / Cyclopoid,omnivore,0
+1102,3887,Copepoda,Harpacticoida,Harpacticoida,Harpacticoid,omnivore,0
+1104,4276,Copepoda,Siphonostomatoida,Siphonostomatoida,Siphonostomatoida,omnivore,0
+1128,3029,Malacostraca,Euphausiacea,Euphausiacea,Euphausiacea Total,omnivore,0
+1130,2738,Malacostraca,Decapoda,Decapoda,Decapod larvae,na,0
+1131,5684,Malacostraca,Isopoda,Isopoda,Isopod,omnivore,0
+1135,4,Malacostraca,Amphipoda,Amphipoda,Amphipod,omnivore,0
+1137,5485,Malacostraca,Cumacea,Cumacea,Cumacea,omnivore,0
+1205,NA,NA,NA,NA,Hyperiidea indet,carnivore,0
+1207,NA,NA,NA,NA,Gammarid amphipod,omnivore,0
+1248,5483,NA,NA,Ctenophora,Ctenophore,carnivore,0
+1267,5457,NA,NA,Cnidaria,Cnidarian larvae,carnivore,0
+1268,6065,NA,Sipuncula,Sipuncula,Sipunculid worm larvae,omnivore,0
+1300,NA,NA,NA,NA,Arachnid terrestrial,na,0
+1302,NA,NA,NA,NA,Pycnogonida,carnivore,0
+1307,NA,NA,NA,NA,Insect terrestrial,na,0
+1337,5669,Hydrozoa,NA,Hydrozoa,Hydromedusae,carnivore,0
+1371,5164,Hydrozoa,Siphonophorae,Siphonophorae,Siphonophore,carnivore,0
+1410,NA,NA,NA,NA,Foram A,na,0
+1648,NA,NA,NA,NA,Pelagosphera larvae,na,0
+1803,NA,NA,NA,NA,Brachiopoda larvae,na,0
+1806,NA,NA,NA,NA,Echinoderm larvae,na,0
+1828,5607,NA,NA,Gnathostomata,Pisces egg,na,0
+2081,5419,NA,NA,Chaetognatha,Chaetognatha,carnivore,0
+5953,2561,Sagittoidea,Aphragmophora,Sagittidae,Sagittidae indet,carnivore,0
+10194,NA,NA,NA,NA,Fish eggs (Total),na,0
+10295,NA,NA,NA,NA,Leptocephalus larvae,na,0
+11707,5413,Cephalopoda,NA,Cephalopoda,Cephalopoda j,na,0
+11716,6133,Cephalopoda,Teuthida,Teuthida,Teuthida indet,carnivore,0
+13551,3093,Hydrozoa,Anthoathecata,Anthoathecata,Anthoathecata,carnivore,0
+13703,NA,NA,NA,NA,Thecosomata (North Atlantic),omnivore,0
+14355,NA,NA,NA,NA,Stomatopod,carnivore,0
+14712,NA,NA,NA,NA,Opisthobranchia,na,0
+14777,6151,Gastropoda,Littorinimorpha,Tonnoidea,Stylocheiron carinatum,na,0
+16350,3444,Hydrozoa,Trachymedusae,Trachymedusae,Trachymedusae,carnivore,0
+17446,NA,NA,NA,NA,Appendicularia,filter-feeder,1
+19494,5668,Hydrozoa,NA,Hydroidolina,Hydroid,carnivore,0
+23000,4784,Gastropoda,Pteropoda,Cavoliniidae,Cavoliniidae,carnivore,0
+101417,92,Malacostraca,Amphipoda,Hyperiidae,Hyperiid amphipod,carnivore,0
+101424,216,Malacostraca,Amphipoda,Scinidae,Scinidae,omnivore,0
+101796,85,Malacostraca,Amphipoda,Hyperia,Hyperia spp.,carnivore,0
+101798,95,Malacostraca,Amphipoda,Hyperoche,Hyperoche sp.,carnivore,0
+101800,237,Malacostraca,Amphipoda,Themisto,Themisto sp.,carnivore,0
+101802,126,Malacostraca,Amphipoda,Mimonectes,Mimonectes spp.,omnivore,0
+101804,164,Malacostraca,Amphipoda,Phronima,Phronima spp.,carnivore,0
+101806,193,Malacostraca,Amphipoda,Primno,Primno spp.,omnivore,0
+101810,210,Malacostraca,Amphipoda,Scina,Scina spp.,omnivore,0
+101812,254,Malacostraca,Amphipoda,Vibilia,Vibilia spp.,omnivore,0
+101812,254,Malacostraca,Amphipoda,Vibilia,Vibilia spp.,omnivore,0
+103241,19,Malacostraca,Amphipoda,Brachyscelus crusculum,Brachyscelus crusculum,omnivore,0
+103254,89,Malacostraca,Amphipoda,Hyperia spinigera,Hyperia spinigera,carnivore,0
+103256,97,Malacostraca,Amphipoda,Hyperoche medusarum,Hyperoche medusarum,carnivore,0
+103273,175,Malacostraca,Amphipoda,Phrosina semilunata,Phrosina semilunata,omnivore,0
+103354,286,Appendicularia,Copelata,Fritillariidae,Fritillariidae,filter-feeder,1
+103356,314,Appendicularia,Copelata,Oikopleuridae,Oikopleuridae,filter-feeder,1
+103357,6335,Appendicularia,Copelata,Appendicularia,Appendicularia,filter-feeder,1
+103358,278,Appendicularia,Copelata,Fritillaria,Fritillaria sp.,filter-feeder,1
+103367,295,Appendicularia,Copelata,Oikopleura,Oikopleura spp.,filter-feeder,1
+103386,284,Appendicularia,Copelata,Fritillaria pellucida,Fritillaria pellucida,filter-feeder,1
+103483,5332,Ascidiacea,Phlebobranchia,Ascidia,Colonial ascidian larvae,filter-feeder,1
+104075,396,Copepoda,Calanoida,Aetideidae,Aetideidae,omnivore,0
+104079,600,Copepoda,Calanoida,Calanidae,Calanid CIV,omnivore,0
+104085,1007,Copepoda,Calanoida,Eucalanidae,Eucalanidae,omnivore,0
+104086,1032,Copepoda,Calanoida,Euchaetidae,Euchaetidae (unidentified),carnivore,0
+104093,1533,Copepoda,Calanoida,Paracalanidae,Paracalanidae f,omnivore,0
+104097,1813,Copepoda,Calanoida,Pontellidae,Pontellidae,carnivore,0
+104103,2180,Copepoda,Calanoida,Scolecitrichidae,Scolecitrichidae f,omnivore,0
+104108,318,Copepoda,Calanoida,Acartia,Acantharia,omnivore,0
+104112,410,Copepoda,Calanoida,Aetideus,Aetideus spp. f,omnivore,0
+104115,562,Copepoda,Calanoida,Bradyidius,Bradyidius spp. f,omnivore,0
+104120,1033,Copepoda,Calanoida,Euchirella,Euchirella spp.,omnivore,0
+104121,1097,Copepoda,Calanoida,Gaetanus,Gaetanus spp. (unidentified),omnivore,0
+104128,2416,Copepoda,Calanoida,Undeuchaeta,Undeuchaeta spp. (Unidentified),carnivore,0
+104139,936,Copepoda,Calanoida,Euaugaptilus,Euaugaptilus sp.,carnivore,0
+104151,602,Copepoda,Calanoida,Calanoides,Calanoides spp.,omnivore,0
+104152,625,Copepoda,Calanoida,Calanus,Calanus sp.,omnivore,0
+104153,1392,Copepoda,Calanoida,Mesocalanus,Mesocalanus j,omnivore,0
+104155,1474,Copepoda,Calanoida,Neocalanus,Neocalanus spp.,omnivore,0
+104157,691,Copepoda,Calanoida,Candacia,Candacia spp.,carnivore,0
+104159,738,Copepoda,Calanoida,Centropages,Centropages spp.,omnivore,0
+104161,814,Copepoda,Calanoida,Clausocalanus,Clausocalanus farrani/jobei f (1.00mm>x<1.2mm),omnivore,0
+104162,852,Copepoda,Calanoida,Ctenocalanus,Ctenocalanus spp.,omnivore,0
+104164,1439,Copepoda,Calanoida,Microcalanus,Microcalanus spp.,omnivore,0
+104171,1008,Copepoda,Calanoida,Eucalanus,Eucalanus spp.,omnivore,0
+104172,2075,Copepoda,Calanoida,Rhincalanus,Nauplii calanoid (Rhincalanus?),omnivore,0
+104173,2295,Copepoda,Calanoida,Subeucalanus,Subeucalanus spp.,omnivore,0
+104174,1015,Copepoda,Calanoida,Euchaeta,Euchaeta spp.,carnivore,0
+104178,1172,Copepoda,Calanoida,Heterorhabdus,Heterorhabdus spp.,carnivore,0
+104183,1312,Copepoda,Calanoida,Lucicutia,Lucicutia spp.,omnivore,0
+104184,1375,Copepoda,Calanoida,Mecynocera,Mecynocera spp.,omnivore,0
+104190,1412,Copepoda,Calanoida,Metridia,Metridia spp.,omnivore,0
+104191,1758,Copepoda,Calanoida,Pleuromamma,Pleuromamma spp.,omnivore,0
+104192,390,Copepoda,Calanoida,Acrocalanus,Acrocalanus spp.,omnivore,0
+104193,640,Copepoda,Calanoida,Calocalanus,Calocalanus spp.,omnivore,0
+104196,1534,Copepoda,Calanoida,Paracalanus,Paracalanus spp.,omnivore,0
+104201,1515,Copepoda,Calanoida,Onchocalanus,Onchocalanus sp.,omnivore,0
+104207,608,Copepoda,Calanoida,Calanopia,Calanopia spp.,carnivore,0
+104208,1241,Copepoda,Calanoida,Labidocera,Labidocera spp.,carnivore,0
+104209,1770,Copepoda,Calanoida,Pontella,Pontella spp.,carnivore,0
+104210,1814,Copepoda,Calanoida,Pontellina,Pontellina spp.,carnivore,0
+104211,1819,Copepoda,Calanoida,Pontellopsis,Pontellopsis spp. f,carnivore,0
+104228,2119,Copepoda,Calanoida,Scaphocalanus,Scaphocalanus spp. (Unidentified),omnivore,0
+104229,2151,Copepoda,Calanoida,Scolecithricella,Scolecithricella spp. j,omnivore,0
+104230,2171,Copepoda,Calanoida,Scolecithrix,Scolecithrix spp.,omnivore,0
+104241,2313,Copepoda,Calanoida,Temora,Temora spp.,omnivore,0
+104273,411,Copepoda,Calanoida,Aetideus acutus,Aetideus acutus f,omnivore,0
+104275,413,Copepoda,Calanoida,Aetideus armatus,Aetideus armatus f,omnivore,0
+104275,413,Copepoda,Calanoida,Aetideus armatus,Aetideus armatus f,omnivore,0
+104299,1037,Copepoda,Calanoida,Euchirella curticauda,Euchirella curticauda,omnivore,0
+104301,NA,NA,NA,NA,Euchirella messinensis,omnivore,0
+104302,1049,Copepoda,Calanoida,Euchirella pulchra,Euchirella pulchra,omnivore,0
+104303,1050,Copepoda,Calanoida,Euchirella rostrata,Euchirella rostrata,omnivore,0
+104303,1050,Copepoda,Calanoida,Euchirella rostrata,Euchirella rostrata,omnivore,0
+104342,2420,Copepoda,Calanoida,Undeuchaeta major,Undeuchaeta major,carnivore,0
+104342,2420,Copepoda,Calanoida,Undeuchaeta major,Undeuchaeta major,carnivore,0
+104343,2421,Copepoda,Calanoida,Undeuchaeta plumosa,Undeuchaeta plumosa,carnivore,0
+104431,1150,Copepoda,Calanoida,Haloptilus longicornis,Haloptilus longicornis f,carnivore,0
+104434,1155,Copepoda,Calanoida,Haloptilus oxycephalus,Haloptilus oxycephalus,carnivore,0
+104462,605,Copepoda,Calanoida,Calanoides carinatus,Calanoides carinatus f,omnivore,0
+104464,630,Copepoda,Calanoida,Calanus finmarchicus,Calanus finmarchicus,omnivore,0
+104465,631,Copepoda,Calanoida,Calanus glacialis,Calanus glacialis,omnivore,0
+104466,632,Copepoda,Calanoida,Calanus helgolandicus,Calanus helgolandicus,omnivore,0
+104467,633,Copepoda,Calanoida,Calanus hyperboreus,Calanus hyperboreus,omnivore,0
+104468,1394,Copepoda,Calanoida,Mesocalanus tenuicornis,Mesocalanus tenuicornis f,omnivore,0
+104468,1394,Copepoda,Calanoida,Mesocalanus tenuicornis,Mesocalanus tenuicornis f,omnivore,0
+104468,1394,Copepoda,Calanoida,Mesocalanus tenuicornis,Mesocalanus tenuicornis f,omnivore,0
+104469,1473,Copepoda,Calanoida,Nannocalanus minor,Nannocalanus minor,omnivore,0
+104471,1477,Copepoda,Calanoida,Neocalanus gracilis,Neocalanus gracilis,omnivore,0
+104472,1479,Copepoda,Calanoida,Neocalanus robustior,Neocalanus robustior f,omnivore,0
+104473,2435,Copepoda,Calanoida,Undinula vulgaris,Undinula vulgaris,omnivore,0
+104474,692,Copepoda,Calanoida,Candacia armata,Candacia armata,carnivore,0
+104475,693,Copepoda,Calanoida,Candacia bipinnata,Candacia bipinnata,carnivore,0
+104476,699,Copepoda,Calanoida,Candacia curta,Candacia curta f,carnivore,0
+104478,702,Copepoda,Calanoida,Candacia ethiopica,Candacia ethiopica,carnivore,0
+104483,712,Copepoda,Calanoida,Candacia pachydactyla,Candacia pachydactyla f,carnivore,0
+104489,743,Copepoda,Calanoida,Centropages aucklandicus,Centropages aucklandicus,omnivore,0
+104491,746,Copepoda,Calanoida,Centropages bradyi,Centropages bradyi,omnivore,0
+104492,748,Copepoda,Calanoida,Centropages calaninus,Centropages calaninus f,omnivore,0
+104494,750,Copepoda,Calanoida,Centropages chierchiae,Centropages chierchiae eyecount,omnivore,0
+104495,754,Copepoda,Calanoida,Centropages furcatus,Centropages furcatus,omnivore,0
+104496,757,Copepoda,Calanoida,Centropages hamatus,Centropages hamatus,omnivore,0
+104497,759,Copepoda,Calanoida,Centropages kroyeri,Centropages kroyeri m,omnivore,0
+104499,770,Copepoda,Calanoida,Centropages typicus,Centropages typicus,omnivore,0
+104500,773,Copepoda,Calanoida,Centropages violaceus,Centropages violaceus f,omnivore,0
+104501,1223,Copepoda,Calanoida,Isias clavipes,Isias clavipes,omnivore,0
+104502,NA,NA,NA,NA,Clausocalanus arcuicornis,omnivore,0
+104503,819,Copepoda,Calanoida,Clausocalanus furcatus,Clausocalanus furcatus f,omnivore,0
+104504,821,Copepoda,Calanoida,Clausocalanus jobei,Clausocalanus jobei f (>1.2mm),omnivore,0
+104505,823,Copepoda,Calanoida,Clausocalanus lividus,Clausocalanus lividus f,omnivore,0
+104506,824,Copepoda,Calanoida,Clausocalanus mastigophorus,Clausocalanus mastigophorus f,omnivore,0
+104507,826,Copepoda,Calanoida,Clausocalanus parapergens,Clausocalanus parapergens f,omnivore,0
+104508,827,Copepoda,Calanoida,Clausocalanus paululus,Clausocalanus paululus f,omnivore,0
+104509,828,Copepoda,Calanoida,Clausocalanus pergens,Clausocalanus pergens f,omnivore,0
+104510,857,Copepoda,Calanoida,Ctenocalanus vanus,Ctenocalanus vanus,omnivore,0
+104510,857,Copepoda,Calanoida,Ctenocalanus vanus,Ctenocalanus vanus,omnivore,0
+104513,1441,Copepoda,Calanoida,Microcalanus pygmaeus,Microcalanus pygmaeus,omnivore,0
+104513,1441,Copepoda,Calanoida,Microcalanus pygmaeus,Microcalanus pygmaeus,omnivore,0
+104542,NA,NA,NA,NA,Rhincalanus cornutus,omnivore,0
+104543,2078,Copepoda,Calanoida,Rhincalanus nasutus,Rhincalanus nasutus f,omnivore,0
+104543,2078,Copepoda,Calanoida,Rhincalanus nasutus,Rhincalanus nasutus f,omnivore,0
+104544,2296,Copepoda,Calanoida,Subeucalanus crassus,Subeucalanus crassus f,omnivore,0
+104545,2300,Copepoda,Calanoida,Subeucalanus monachus,Subeucalanus monachus f,omnivore,0
+104546,2301,Copepoda,Calanoida,Subeucalanus mucronatus,Subeucalanus mucronatus f,omnivore,0
+104547,2302,Copepoda,Calanoida,Subeucalanus pileatus,Subeucalanus pileatus f,omnivore,0
+104548,2303,Copepoda,Calanoida,Subeucalanus subcrassus,Subeucalanus subcrassus f,omnivore,0
+104549,2304,Copepoda,Calanoida,Subeucalanus subtenuis,Subeucalanus subtenuis f,omnivore,0
+104550,1016,Copepoda,Calanoida,Euchaeta acuta,Euchaeta acuta f,carnivore,0
+104551,1017,Copepoda,Calanoida,Euchaeta concinna,Euchaeta concinna f,carnivore,0
+104552,1021,Copepoda,Calanoida,Euchaeta marina,Euchaeta marina gp f,carnivore,0
+104553,1023,Copepoda,Calanoida,Euchaeta media,Euchaeta media f,carnivore,0
+104557,NA,NA,NA,NA,Paraeuchaeta barbata,carnivore,0
+104560,1598,Copepoda,Calanoida,Paraeuchaeta glacialis,Paraeuchaeta glacialis,carnivore,0
+104561,1600,Copepoda,Calanoida,Paraeuchaeta gracilis,Paraeuchaeta gracilis,carnivore,0
+104563,1605,Copepoda,Calanoida,Paraeuchaeta hebes,Paraeuchaeta hebes,carnivore,0
+104566,1614,Copepoda,Calanoida,Paraeuchaeta norvegica,Paraeuchaeta norvegica,carnivore,0
+104573,1649,Copepoda,Calanoida,Paraeuchaeta tumidula,Paraeuchaeta tumidula f,carnivore,0
+104576,1173,Copepoda,Calanoida,Heterorhabdus abyssalis,Heterorhabdus abyssalis,carnivore,0
+104576,1173,Copepoda,Calanoida,Heterorhabdus abyssalis,Heterorhabdus abyssalis,carnivore,0
+104579,1191,Copepoda,Calanoida,Heterorhabdus norvegicus,Heterorhabdus norvegicus,carnivore,0
+104580,1194,Copepoda,Calanoida,Heterorhabdus papilliger,Heterorhabdus papilliger,carnivore,0
+104580,1194,Copepoda,Calanoida,Heterorhabdus papilliger,Heterorhabdus papilliger,carnivore,0
+104582,1201,Copepoda,Calanoida,Heterorhabdus spinifer,Heterorhabdus spinifer f,carnivore,0
+104583,1202,Copepoda,Calanoida,Heterorhabdus spinifrons,Heterorhabdus spinifrons m,carnivore,0
+104583,1202,Copepoda,Calanoida,Heterorhabdus spinifrons,Heterorhabdus spinifrons m,carnivore,0
+104595,1321,Copepoda,Calanoida,Lucicutia clausi,Lucicutia clausi m,omnivore,0
+104595,1321,Copepoda,Calanoida,Lucicutia clausi,Lucicutia clausi m,omnivore,0
+104597,1324,Copepoda,Calanoida,Lucicutia flavicornis,Lucicutia flavicornis,omnivore,0
+104597,1324,Copepoda,Calanoida,Lucicutia flavicornis,Lucicutia flavicornis,omnivore,0
+104597,1324,Copepoda,Calanoida,Lucicutia flavicornis,Lucicutia flavicornis,omnivore,0
+104609,1342,Copepoda,Calanoida,Lucicutia ovalis,Lucicutia ovalis f,omnivore,0
+104609,1342,Copepoda,Calanoida,Lucicutia ovalis,Lucicutia ovalis f,omnivore,0
+104609,1342,Copepoda,Calanoida,Lucicutia ovalis,Lucicutia ovalis f,omnivore,0
+104616,1376,Copepoda,Calanoida,Mecynocera clausi,Mecynocera clausi,omnivore,0
+104632,1426,Copepoda,Calanoida,Metridia longa,Metridia longa,omnivore,0
+104632,1426,Copepoda,Calanoida,Metridia longa,Metridia longa,omnivore,0
+104633,NA,NA,NA,NA,Metridia lucens,omnivore,0
+104637,NA,NA,NA,NA,Pleuromamma abdominalis,omnivore,0
+104638,1761,Copepoda,Calanoida,Pleuromamma borealis,Pleuromamma borealis,omnivore,0
+104639,NA,NA,NA,NA,Pleuromamma gracilis,omnivore,0
+104640,1765,Copepoda,Calanoida,Pleuromamma piseki,Pleuromamma piseki,omnivore,0
+104642,NA,NA,NA,NA,Pleuromamma robusta,omnivore,0
+104643,1769,Copepoda,Calanoida,Pleuromamma xiphias,Pleuromamma xiphias f,omnivore,0
+104643,1769,Copepoda,Calanoida,Pleuromamma xiphias,Pleuromamma xiphias f,omnivore,0
+104645,392,Copepoda,Calanoida,Acrocalanus gibber,Acrocalanus gibber f,omnivore,0
+104646,394,Copepoda,Calanoida,Acrocalanus longicornis,Acrocalanus longicornis f,omnivore,0
+104669,673,Copepoda,Calanoida,Calocalanus pavo,Calocalanus pavo f,omnivore,0
+104673,683,Copepoda,Calanoida,Calocalanus styliremis,Calocalanus styliremis f,omnivore,0
+104681,NA,NA,NA,NA,Paracalanus aculeatus,omnivore,0
+104682,1537,Copepoda,Calanoida,Paracalanus denudatus,Paracalanus denudatus f,omnivore,0
+104683,1539,Copepoda,Calanoida,Paracalanus indicus,Paracalanus indicus f,omnivore,0
+104686,1688,Copepoda,Calanoida,Parapontella brevicornis,Parapontella brevicornis,carnivore,0
+104698,1743,Copepoda,Calanoida,Phaenna spinifera,Phaenna spinifera f,omnivore,0
+104722,NA,NA,NA,NA,Anomalocera patersoni,omnivore,0
+104724,614,Copepoda,Calanoida,Calanopia elliptica,Calanopia elliptica f,carnivore,0
+104726,1242,Copepoda,Calanoida,Labidocera acuta,Labidocera acuta f,carnivore,0
+104727,1243,Copepoda,Calanoida,Labidocera acutifrons,Labidocera acutifrons f,carnivore,0
+104730,1258,Copepoda,Calanoida,Labidocera detruncata,Labidocera detruncata f,carnivore,0
+104735,1284,Copepoda,Calanoida,Labidocera pavo,Labidocera pavo f,carnivore,0
+104736,1293,Copepoda,Calanoida,Labidocera wollastoni,Labidocera wollastoni,carnivore,0
+104740,1803,Copepoda,Calanoida,Pontella securifer,Pontella securifer f,carnivore,0
+104743,1817,Copepoda,Calanoida,Pontellina plumata,Pontellina plumata f,carnivore,0
+104790,2126,Copepoda,Calanoida,Scaphocalanus brevicornis,Scaphocalanus brevicornis f,omnivore,0
+104793,2132,Copepoda,Calanoida,Scaphocalanus echinatus,Scaphocalanus echinatus f,omnivore,0
+104811,NA,NA,NA,NA,Scolecithricella minor,omnivore,0
+104820,2173,Copepoda,Calanoida,Scolecithrix bradyi,Scolecithrix bradyi f,omnivore,0
+104821,2174,Copepoda,Calanoida,Scolecithrix danae,Scolecithrix danae f,omnivore,0
+104878,2316,Copepoda,Calanoida,Temora longicornis,Temora longicornis,omnivore,0
+104879,2317,Copepoda,Calanoida,Temora stylifera,Temora stylifera m,omnivore,0
+104879,2317,Copepoda,Calanoida,Temora stylifera,Temora stylifera m,omnivore,0
+104880,2318,Copepoda,Calanoida,Temora turbinata,Temora turbinata,omnivore,0
+104881,2336,Copepoda,Calanoida,Temoropia mayumbaensis,Temoropia mayumbaensis m,omnivore,0
+104906,NA,NA,NA,NA,Branchiostoma lanceolatum,na,0
+105406,2533,Sagittoidea,Aphragmophora,Flaccisagitta,Flaccisagitta spp.,carnivore,0
+105409,2551,Sagittoidea,Aphragmophora,Pseudosagitta,Pseudosagitta sp.,carnivore,0
+105416,2526,Sagittoidea,Phragmophora,Eukrohnia hamata,Eukrohnia hamata,carnivore,0
+105434,2534,Sagittoidea,Aphragmophora,Flaccisagitta enflata,Flaccisagitta enflata,carnivore,0
+105464,2566,Sagittoidea,Aphragmophora,Serratosagitta serratodentata,Serratosagitta serratodentata,carnivore,0
+105465,2567,Sagittoidea,Aphragmophora,Serratosagitta tasmanica,Serratosagitta tasmanica,carnivore,0
+106087,NA,NA,NA,NA,Lepas nauplii,omnivore,0
+106267,2577,Branchiopoda,Onychopoda,Evadne,Evadne spp f gravid,carnivore,0
+106269,2582,Branchiopoda,Onychopoda,Podon,Podon spp.,carnivore,0
+106272,2581,Branchiopoda,Ctenopoda,Penilia avirostris,Penilia avirostris,omnivore,0
+106273,2578,Branchiopoda,Onychopoda,Evadne nordmanni,Evadne nordmanni,carnivore,0
+106274,NA,NA,NA,NA,Evadne spinifera,carnivore,0
+106276,NA,NA,NA,NA,Podon intermedius,carnivore,0
+106278,NA,NA,NA,NA,Pseudevadne tergestina,carnivore,0
+106485,4053,Copepoda,Cyclopoida,Oithona,Oithona Grp1 (flat head) f,omnivore,0
+106642,4057,Copepoda,Cyclopoida,Oithona atlantica,Oithona atlantica f,omnivore,0
+106644,4066,Copepoda,Cyclopoida,Oithona decipiens,Oithona decipiens f,omnivore,0
+106649,4077,Copepoda,Cyclopoida,Oithona longispina,Oithona longispina f,omnivore,0
+106651,4078,Copepoda,Cyclopoida,Oithona nana,Oithona nana f,omnivore,0
+106652,4083,Copepoda,Cyclopoida,Oithona plumifera,Oithona plumifera,omnivore,0
+106656,4091,Copepoda,Cyclopoida,Oithona similis,Oithona similis,omnivore,0
+106656,4091,Copepoda,Cyclopoida,Oithona similis,Oithona similis,omnivore,0
+106658,4093,Copepoda,Cyclopoida,Oithona tenuis,Oithona tenuis f,omnivore,0
+106669,2739,Malacostraca,Decapoda,Dendrobranchiata,Dendrobranchiata larvae,omnivore,0
+106671,2706,Malacostraca,Decapoda,Anomura,Anomura megalopa larvae,omnivore,0
+106673,2713,Malacostraca,Decapoda,Brachyura,Brachyuran megalopa,omnivore,0
+106674,2721,Malacostraca,Decapoda,Caridea,Caridea megalopa larvae,omnivore,0
+106731,2985,Malacostraca,Decapoda,Sergestidae,Sergestid protozoea,omnivore,0
+106734,2963,Malacostraca,Decapoda,Porcellanidae,Porcelain crab zoea,omnivore,0
+106758,NA,NA,NA,NA,Leucosiid zoea,omnivore,0
+106776,2702,Malacostraca,Decapoda,Alpheidae,Alpheid zoea,omnivore,0
+106800,2714,Malacostraca,Decapoda,Callianassidae,Callianassidae zoea,omnivore,0
+106827,2826,Malacostraca,Decapoda,Lucifer,Lucifer spp.,carnivore,0
+106992,2829,Malacostraca,Decapoda,Lysmata,Lysmata spp.,omnivore,0
+107018,2687,Malacostraca,Decapoda,Acanthephyra,Ephyra larva,omnivore,0
+107060,2906,Malacostraca,Decapoda,Panulirus,Phyllosoma larvae,carnivore,0
+107122,2827,Malacostraca,Decapoda,Lucifer typus,Lucifer typus f,carnivore,0
+109462,NA,NA,NA,NA,Dinophysis spp. Total,na,0
+109466,NA,NA,NA,NA,Phalacroma spp.,na,0
+109475,5629,Dinophyceae,Gymnodiniales,Gymnodinium,Gymnodinium spp.,na,0
+109509,NA,NA,NA,NA,Cladopyxis spp.,na,0
+109519,NA,NA,NA,NA,Gonyaulax spp.,na,0
+109528,NA,NA,NA,NA,Oxytoxum spp.,na,0
+109538,5600,Dinophyceae,Peridiniales,Glenodinium,Glenodinium spp.,na,0
+109545,NA,NA,NA,NA,Scrippsiella spp.,na,0
+109550,NA,NA,NA,NA,Podolampas spp.,na,0
+109553,NA,NA,NA,NA,Protoperidinium spp.,na,0
+109555,NA,NA,NA,NA,Pyrophacus spp.,na,0
+109566,NA,NA,NA,NA,Prorocentrum spp. Total,na,0
+109571,NA,NA,NA,NA,Pyrocystis spp.,na,0
+109717,NA,NA,NA,NA,Actiniscus pentasterias,na,0
+109903,NA,NA,NA,NA,Pronoctiluca pelagica,na,0
+109921,5839,Dinophyceae,Noctilucales,Noctiluca scintillans,Noctiluca scintillans,na,0
+109929,NA,NA,NA,NA,Ceratium arietinum,na,0
+109930,NA,NA,NA,NA,Ceratium azoricum,na,0
+109931,NA,NA,NA,NA,Ceratium belone,na,0
+109932,NA,NA,NA,NA,Ceratium breve,na,0
+109934,NA,NA,NA,NA,Ceratium buceros,na,0
+109935,NA,NA,NA,NA,Ceratium candelabrum,na,0
+109936,NA,NA,NA,NA,Ceratium carriense,na,0
+109943,NA,NA,NA,NA,Ceratium declinatum,na,0
+109947,NA,NA,NA,NA,Ceratium extensum,na,0
+109950,NA,NA,NA,NA,Ceratium furca,na,0
+109951,NA,NA,NA,NA,Ceratium fusus,na,0
+109953,NA,NA,NA,NA,Ceratium gibberum,na,0
+109955,NA,NA,NA,NA,Ceratium hexacanthum,na,0
+109956,NA,NA,NA,NA,Ceratium horridum,na,0
+109963,NA,NA,NA,NA,Ceratium lineatum,na,0
+109964,NA,NA,NA,NA,Ceratium longipes,na,0
+109965,NA,NA,NA,NA,Ceratium longirostrum,na,0
+109967,NA,NA,NA,NA,Ceratium macroceros,na,0
+109968,NA,NA,NA,NA,Ceratium massiliense,na,0
+109969,NA,NA,NA,NA,Ceratium minutum,na,0
+109971,NA,NA,NA,NA,Ceratium pavillardii,na,0
+109972,NA,NA,NA,NA,Ceratium pentagonum,na,0
+109974,NA,NA,NA,NA,Ceratium pulchellum,na,0
+109977,NA,NA,NA,NA,Ceratium setaceum,na,0
+109980,NA,NA,NA,NA,Ceratium teres,na,0
+109981,NA,NA,NA,NA,Ceratium trichoceros,na,0
+109982,NA,NA,NA,NA,Ceratium tripos,na,0
+109983,NA,NA,NA,NA,Ceratium vultur,na,0
+110005,NA,NA,NA,NA,Amphidoma caudata,na,0
+110178,NA,NA,NA,NA,Blepharocysta paulsenii,na,0
+110671,3030,Malacostraca,Euphausiacea,Euphausiidae,Euphausid larvae,omnivore,0
+110673,3014,Malacostraca,Euphausiacea,Euphausia,Euphausia spp.,omnivore,0
+110677,3039,Malacostraca,Euphausiacea,Nyctiphanes,Nyctiphanes spp.,omnivore,0
+110678,3043,Malacostraca,Euphausiacea,Stylocheiron,Stylocheiron spp.,carnivore,0
+110679,3049,Malacostraca,Euphausiacea,Thysanoessa,Thysanoessa spp.,omnivore,0
+110685,NA,NA,NA,NA,Euphausia hanseni,omnivore,0
+110695,3038,Malacostraca,Euphausiacea,Nematoscelis megalops,Nematoscelis megalops,omnivore,0
+110703,3045,Malacostraca,Euphausiacea,Stylocheiron longicorne,Stylocheiron longicorne,omnivore,0
+110707,3050,Malacostraca,Euphausiacea,Thysanoessa gregaria,Thysanoessa gregaria,omnivore,0
+111929,NA,NA,NA,NA,Globigerinidae,na,0
+111930,NA,NA,NA,NA,Globorotaliidae,na,0
+112086,NA,NA,NA,NA,Rotalia spp.,na,0
+112200,NA,NA,NA,NA,Globorotalia spp.,na,0
+113434,NA,NA,NA,NA,Globigerina bulloides,na,0
+113449,NA,NA,NA,NA,Globorotalia inflata,na,0
+113458,NA,NA,NA,NA,Neogloboquadrina pachyderma,na,0
+113462,NA,NA,NA,NA,Turborotalita quinqueloba,na,0
+113465,NA,NA,NA,NA,Globigerinita uvula,na,0
+113474,NA,NA,NA,NA,Neogloboquadrina incompta,na,0
+115145,NA,NA,NA,NA,Clytemnestridae f,omnivore,0
+115163,3961,Copepoda,Harpacticoida,Miraciidae,Miraciidae,omnivore,0
+115183,4314,Copepoda,Harpacticoida,Tisbidae,Tisbidae spp. f,omnivore,0
+115187,NA,NA,NA,NA,Ambunguipes spp.,omnivore,0
+115273,3735,Copepoda,Harpacticoida,Clytemnestra,Clytemnestra spp.,omnivore,0
+115341,3956,Copepoda,Harpacticoida,Microsetella,Microsetella spp.,omnivore,0
+115348,3858,Copepoda,Harpacticoida,Euterpina,Euterpina spp.,omnivore,0
+115408,3934,Copepoda,Harpacticoida,Macrosetella,Macrosetella spp.,omnivore,0
+115427,3658,Copepoda,Harpacticoida,Alteutha,Alteutha spp.,omnivore,0
+115805,3740,Copepoda,Harpacticoida,Clytemnestra scutellata,Clytemnestra scutellata f,omnivore,0
+116115,3957,Copepoda,Harpacticoida,Microsetella norvegica,Microsetella norvegica,omnivore,0
+116116,3958,Copepoda,Harpacticoida,Microsetella rosea,Microsetella rosea,omnivore,0
+116162,3859,Copepoda,Harpacticoida,Euterpina acutifrons,Euterpina acutifrons,omnivore,0
+116162,3859,Copepoda,Harpacticoida,Euterpina acutifrons,Euterpina acutifrons,omnivore,0
+116382,3935,Copepoda,Harpacticoida,Macrosetella gracilis,Macrosetella gracilis,omnivore,0
+116383,3960,Copepoda,Harpacticoida,Miracia efferata,Miracia efferata f,omnivore,0
+116384,4052,Copepoda,Harpacticoida,Oculosetella gracilis,Oculosetella gracilis,omnivore,0
+116598,NA,NA,NA,NA,Parathalestris croni,omnivore,0
+117080,3190,Hydrozoa,Leptothecata,Eirene,Eirene spp.,carnivore,0
+117267,3419,Hydrozoa,Narcomedusae,Solmundella bitentaculata,Solmundella bitentaculata,carnivore,0
+117568,3268,Hydrozoa,Limnomedusae,Liriope tetraphylla,Liriope tetraphylla,carnivore,0
+117851,3081,Hydrozoa,Trachymedusae,Aglaura hemistoma,Aglaura hemistoma,carnivore,0
+118403,NA,NA,NA,NA,Metacirolana spp.,omnivore,0
+119369,NA,NA,NA,NA,Kuhnia spp. cyst,omnivore,0
+119822,3571,Malacostraca,Mysida,Mysidae,Mysidae indet,omnivore,0
+123080,NA,NA,NA,NA,Asteroidea larvae,omnivore,0
+123081,NA,NA,NA,NA,Pentacrinoid larvae,omnivore,0
+123082,NA,NA,NA,NA,Echinopluteus,omnivore,0
+123084,NA,NA,NA,NA,Ophiopluteus,omnivore,0
+123200,5884,Ophiuroidea,Ophiurida,Ophiuridae,Ophiuroidea,carnivore,0
+125498,5815,Actinopteri,Myctophiformes,Myctophidae,Myctophid,na,0
+125576,NA,NA,NA,NA,Bothidae larvae,na,0
+125606,6113,Actinopteri,Syngnathiformes,Syngnathidae,Syngnathid,na,0
+125610,NA,NA,NA,NA,Monacanthidae (leatherjacket) larvae,na,0
+125832,5970,Actinopteri,Myctophiformes,Protomyctophum,Protomyctophum sp.,na,0
+127520,4415,Ostracoda,Myodocopida,Cypridina,Cypridina spp.,omnivore,0
+127533,4395,Ostracoda,Halocyprida,Conchoecia,Conchoecia spp.,omnivore,0
+127538,4430,Ostracoda,Halocyprida,Euconchoecia,Euconchoecia spp.,omnivore,0
+127784,NA,NA,NA,NA,Euconchoecia aculeata,omnivore,0
+128567,3734,Copepoda,Cyclopoida,Clausidiidae,Clausidiid j,omnivore,0
+128569,3755,Copepoda,Cyclopoida,Corycaeidae,Corycaeidae,carnivore,0
+128586,4167,Copepoda,Cyclopoida,Oncaeidae,Oncaeidae j,omnivore,0
+128633,3652,Copepoda,Cyclopoida,Agetus,Agetus spp. f,carnivore,0
+128634,3756,Copepoda,Cyclopoida,Corycaeus,Corycaeus spp.,carnivore,0
+128635,3833,Copepoda,Cyclopoida,Ditrichocorycaeus,Ditrichocorycaeus spp.,carnivore,0
+128636,3864,Copepoda,Cyclopoida,Farranula,Farranula spp.,carnivore,0
+128638,4168,Copepoda,Cyclopoida,Onychocorycaeus,Onychocorycaeus spp.,carnivore,0
+128639,4347,Copepoda,Cyclopoida,Urocorycaeus,Urocorycaeus spp.,carnivore,0
+128672,3927,Copepoda,Cyclopoida,Lubbockia,Lubbockia spp.,omnivore,0
+128690,4098,Copepoda,Cyclopoida,Oncaea,Oncaea spp.,omnivore,0
+128691,4316,Copepoda,Cyclopoida,Triconia,Triconia spp. f,omnivore,0
+128721,3747,Copepoda,Cyclopoida,Copilia,Copilia spp.,omnivore,0
+128722,4246,Copepoda,Cyclopoida,Sapphirina,Sapphirina ovatolanceolata / gemma f,omnivore,0
+128795,3653,Copepoda,Cyclopoida,Agetus flaccus,Agetus flaccus f,carnivore,0
+128796,3654,Copepoda,Cyclopoida,Agetus limbatus,Agetus limbatus f,carnivore,0
+128797,3655,Copepoda,Cyclopoida,Agetus typicus,Agetus typicus f,carnivore,0
+128798,3759,Copepoda,Cyclopoida,Corycaeus clausi,Corycaeus clausi f,carnivore,0
+128799,3760,Copepoda,Cyclopoida,Corycaeus crassiusculus,Corycaeus crassiusculus f,carnivore,0
+128800,3761,Copepoda,Cyclopoida,Corycaeus speciosus,Corycaeus speciosus f,carnivore,0
+128804,3837,Copepoda,Cyclopoida,Ditrichocorycaeus andrewsi,Ditrichocorycaeus andrewsi f,carnivore,0
+128805,3838,Copepoda,Cyclopoida,Ditrichocorycaeus anglicus,Ditrichocorycaeus anglicus f,carnivore,0
+128807,3844,Copepoda,Cyclopoida,Ditrichocorycaeus lubbocki,Ditrichocorycaeus lubbocki f,carnivore,0
+128808,3845,Copepoda,Cyclopoida,Ditrichocorycaeus minimus,Ditrichocorycaeus minimus m,carnivore,0
+128809,3846,Copepoda,Cyclopoida,Ditrichocorycaeus subtilis,Ditrichocorycaeus subtilis f,carnivore,0
+128810,3847,Copepoda,Cyclopoida,Ditrichocorycaeus tenuis,Ditrichocorycaeus tenuis f,carnivore,0
+128811,3865,Copepoda,Cyclopoida,Farranula carinata,Farranula carinata f,carnivore,0
+128812,3867,Copepoda,Cyclopoida,Farranula curta,Farranula curta f,carnivore,0
+128813,3869,Copepoda,Cyclopoida,Farranula gracilis,Farranula gracilis f,carnivore,0
+128814,3872,Copepoda,Cyclopoida,Farranula rostrata,Farranula rostrata f,carnivore,0
+128815,NA,NA,NA,NA,Monocorycaeus robustus f,carnivore,0
+128816,4170,Copepoda,Cyclopoida,Onychocorycaeus catus,Onychocorycaeus catus f,carnivore,0
+128817,4171,Copepoda,Cyclopoida,Onychocorycaeus giesbrechti,Onychocorycaeus giesbrechti f,carnivore,0
+128818,4172,Copepoda,Cyclopoida,Onychocorycaeus latus,Onychocorycaeus latus f,carnivore,0
+128819,4173,Copepoda,Cyclopoida,Onychocorycaeus ovalis,Onychocorycaeus ovalis f,carnivore,0
+128820,4175,Copepoda,Cyclopoida,Onychocorycaeus pumilus,Onychocorycaeus pumilus f,carnivore,0
+128821,4348,Copepoda,Cyclopoida,Urocorycaeus furcifer,Urocorycaeus furcifer f,carnivore,0
+128822,4349,Copepoda,Cyclopoida,Urocorycaeus lautus,Urocorycaeus lautus f,carnivore,0
+128893,3928,Copepoda,Cyclopoida,Lubbockia aculeata,Lubbockia aculeata f,omnivore,0
+128894,3931,Copepoda,Cyclopoida,Lubbockia squillimana,Lubbockia squillimana f,omnivore,0
+128926,4101,Copepoda,Cyclopoida,Oncaea atlantica,Oncaea atlantica complex f,omnivore,0
+128938,4129,Copepoda,Cyclopoida,Oncaea media,Oncaea media complex f,omnivore,0
+128939,4130,Copepoda,Cyclopoida,Oncaea mediterranea,Oncaea mediterranea broad f,omnivore,0
+128950,4155,Copepoda,Cyclopoida,Oncaea scottodicarloi,Oncaea scottodicarloi f,omnivore,0
+128954,4162,Copepoda,Cyclopoida,Oncaea venusta,Oncaea venusta complex,omnivore,0
+128955,4166,Copepoda,Cyclopoida,Oncaea zernovi,Oncaea zernovi complex f,omnivore,0
+128957,4320,Copepoda,Cyclopoida,Triconia conifera,Triconia conifera complex f,omnivore,0
+129036,3749,Copepoda,Cyclopoida,Copilia lata,Copilia lata f,omnivore,0
+129038,3752,Copepoda,Cyclopoida,Copilia mirabilis,Copilia mirabilis f,omnivore,0
+129039,3753,Copepoda,Cyclopoida,Copilia quadrata,Copilia quadrata f,omnivore,0
+129041,4247,Copepoda,Cyclopoida,Sapphirina angusta,Sapphirina angusta f,omnivore,0
+129052,4257,Copepoda,Cyclopoida,Sapphirina metallina,Sapphirina metallina f,carnivore,0
+129053,4258,Copepoda,Cyclopoida,Sapphirina nigromaculata,Sapphirina cf. nigromaculata f,omnivore,0
+129054,4259,Copepoda,Cyclopoida,Sapphirina opalina,Sapphirina opalina,omnivore,0
+129058,4263,Copepoda,Cyclopoida,Sapphirina scarlata,Sapphirina scarlata f,omnivore,0
+129060,4265,Copepoda,Cyclopoida,Sapphirina stellata,Sapphirina stellata,omnivore,0
+129327,4652,Polychaeta,Phyllodocida,Maupasia,Maupasia sp.,carnivore,0
+129715,4750,Polychaeta,Phyllodocida,Tomopteris,Tomopteris spp.,carnivore,0
+129721,4764,Polychaeta,Phyllodocida,Travisiopsis,Travisiopsis spp.,carnivore,0
+129766,NA,NA,NA,NA,Vanadis longissima,carnivore,0
+130219,4681,Polychaeta,Phyllodocida,Pelagobia longicirrata,Pelagobia longicirrata,omnivore,0
+130219,4681,Polychaeta,Phyllodocida,Pelagobia longicirrata,Pelagobia longicirrata,omnivore,0
+131580,4767,Polychaeta,Phyllodocida,Travisiopsis levinseni,Travisiopsis levinseni,carnivore,0
+131582,4772,Polychaeta,Phyllodocida,Typhloscolex muelleri,Typhloscolex muelleri,carnivore,0
+135333,5025,Hydrozoa,Siphonophorae,Calycophorae,Calycophoran,carnivore,0
+135335,5137,Hydrozoa,Siphonophorae,Physonectae,Physonectae,carnivore,0
+135336,4997,Hydrozoa,Siphonophorae,Abylidae,Siphonophore abylidae,carnivore,0
+135338,5055,Hydrozoa,Siphonophorae,Diphyidae,Siphonophore diphyidae,carnivore,0
+135360,5030,Hydrozoa,Siphonophorae,Chelophyes,Chelophyes spp.,carnivore,0
+135364,5064,Hydrozoa,Siphonophorae,Eudoxoides,Eudoxoides spp.,carnivore,0
+135365,5088,Hydrozoa,Siphonophorae,Lensia,Lensia spp.,carnivore,0
+135424,5066,Hydrozoa,Siphonophorae,Eudoxoides spiralis,Eudoxoides spiralis,carnivore,0
+135531,NA,NA,NA,NA,Pandaridae,carnivore,0
+135566,3699,Copepoda,Siphonostomatoida,Caligus,Caligus spp.,omnivore,0
+136093,6083,Malacostraca,Stomatopoda,Squillidae,Squillidae,carnivore,0
+136113,NA,NA,NA,NA,Squilla sp.,carnivore,0
+137215,5198,Thaliacea,Doliolida,Doliolidae,Doliolidae indet,filter-feeder,1
+137216,5224,Thaliacea,Pyrosomatida,Pyrosomatidae,Pyrosomatidae indet,filter-feeder,1
+137217,5239,Thaliacea,Salpida,Salpidae,Salpidae,filter-feeder,1
+137222,5204,Thaliacea,Doliolida,Doliolum,Doliolum oozoid spp.,filter-feeder,1
+137224,5222,Thaliacea,Pyrosomatida,Pyrosoma,Pyrosome,filter-feeder,1
+137233,5233,Thaliacea,Salpida,Salpa,Salpa thompsoni agg,filter-feeder,1
+137236,5242,Thaliacea,Salpida,Thalia,Thalia spp.,filter-feeder,1
+137272,5235,Thaliacea,Salpida,Salpa fusiformis,Salpa fusiformis,filter-feeder,1
+137275,5241,Thaliacea,Salpida,Soestia zonaria,Soestia zonaria,filter-feeder,1
+137279,5243,Thaliacea,Salpida,Thalia democratica,Thalia democratica,filter-feeder,1
+137687,5343,Gastropoda,Littorinimorpha,Atlanta,Atlanta spp.,carnivore,0
+137751,4788,Gastropoda,Pteropoda,Clio,Clio sp.,carnivore,0
+137752,4807,Gastropoda,Pteropoda,Creseis,Creseis spp.,omnivore,0
+137793,4794,Gastropoda,Pteropoda,Clione,Clione spp.,carnivore,0
+138122,4844,Gastropoda,Pteropoda,Limacina,Limacina,omnivore,0
+138366,4867,Gastropoda,Pteropoda,Pneumodermopsis,Pneumodermopsis spp. (Unidentified),carnivore,0
+139033,4792,Gastropoda,Pteropoda,Clio pyramidata,Clio pyramidata,omnivore,0
+139178,4796,Gastropoda,Pteropoda,Clione limacina,Clione limacina,carnivore,0
+140227,4849,Gastropoda,Pteropoda,Limacina retroversa,Limacina retroversa,omnivore,0
+146142,NA,NA,NA,NA,Bryozoan (Cyphonaute larvae),omnivore,0
+146420,6164,NA,NA,Tunicata,Urochordate,filter-feeder,1
+148378,5934,NA,NA,Phoronidae,Actinotroch of phoronid worm,omnivore,0
+148912,NA,NA,NA,NA,Thalassiosira spp.,na,0
+148917,NA,NA,NA,NA,Coscinodiscus spp. (Unidentified),na,0
+148947,NA,NA,NA,NA,Actinoptychus spp.,na,0
+148985,NA,NA,NA,NA,Chaetoceros spp.,na,0
+148992,NA,NA,NA,NA,Coscinodiscus concinnus,na,0
+149004,NA,NA,NA,NA,Cylindrotheca closterium,na,0
+149023,NA,NA,NA,NA,Ditylum brightwellii,na,0
+149028,NA,NA,NA,NA,Fragilaria spp.,na,0
+149033,NA,NA,NA,NA,Gyrosigma spp.,na,0
+149050,NA,NA,NA,NA,Odontella aurita,na,0
+149055,NA,NA,NA,NA,Paralia sulcata,na,0
+149060,NA,NA,NA,NA,Podosira stelligera,na,0
+149066,NA,NA,NA,NA,Rhaphoneis amphiceros,na,0
+149071,NA,NA,NA,NA,Rhizosolenia hebetata semispina,na,0
+149074,NA,NA,NA,NA,Skeletonema costatum,na,0
+149084,NA,NA,NA,NA,Surirella spp.,na,0
+149093,NA,NA,NA,NA,Thalassionema nitzschioides,na,0
+149094,NA,NA,NA,NA,Odontella regia,na,0
+149095,NA,NA,NA,NA,Odontella sinensis,na,0
+149106,NA,NA,NA,NA,Leptocylindrus danicus,na,0
+149112,NA,NA,NA,NA,Guinardia delicatula,na,0
+149113,NA,NA,NA,NA,Guinardia striata,na,0
+149115,NA,NA,NA,NA,Rhizosolenia setigera,na,0
+149116,NA,NA,NA,NA,Rhizosolenia imbricata,na,0
+149117,NA,NA,NA,NA,Rhizosolenia pungens,na,0
+149118,NA,NA,NA,NA,Bacteriastrum spp.,na,0
+149131,NA,NA,NA,NA,Eucampia zodiacus,na,0
+149132,NA,NA,NA,NA,Guinardia flaccida,na,0
+149135,NA,NA,NA,NA,Lauderia annulata,na,0
+149139,NA,NA,NA,NA,Asterionellopsis glacialis,na,0
+149142,NA,NA,NA,NA,Navicula spp.,na,0
+149150,NA,NA,NA,NA,Nitzschia longissima,na,0
+149151,NA,NA,NA,NA,Nitzschia/Pseudo-nitzschia spp. (unidentified),na,0
+149152,NA,NA,NA,NA,Pseudo-nitzschia seriata complex,na,0
+149153,NA,NA,NA,NA,Pseudo-nitzschia delicatissima complex,na,0
+149156,NA,NA,NA,NA,Odontella granulata,na,0
+149157,NA,NA,NA,NA,Odontella rhombus,na,0
+149168,NA,NA,NA,NA,Proboscia alata,na,0
+149230,NA,NA,NA,NA,Leptocylindrus mediterraneus,na,0
+149286,NA,NA,NA,NA,Detonula confervacea,na,0
+149306,NA,NA,NA,NA,Bellerochea malleus,na,0
+149310,NA,NA,NA,NA,Dactyliosolen fragilissimus,na,0
+149619,NA,NA,NA,NA,Cerataulina pelagica,na,0
+149629,NA,NA,NA,NA,Rhizosolenia styliformis,na,0
+149630,NA,NA,NA,NA,Stephanopyxis spp.,na,0
+149647,NA,NA,NA,NA,Detonula pumila,na,0
+149655,NA,NA,NA,NA,Biddulphia alternans,na,0
+149668,3570,Malacostraca,Mysida,Mysida,Mysid,omnivore,0
+149746,900,Copepoda,Calanoida,Drepanopus,Drepanopus sp.,omnivore,0
+149755,343,Copepoda,Calanoida,Acartia (Acartiura) clausi,Acartia clausi f,omnivore,0
+150203,NA,NA,NA,NA,Codonella spp.,omnivore,0
+150205,NA,NA,NA,NA,Cyttarocylis spp.,omnivore,0
+150305,NA,NA,NA,NA,Facetotecta cyprid,omnivore,0
+155189,4631,Polychaeta,Phyllodocida,Iospilidae,Iospilidae indet,carnivore,0
+155670,2576,Branchiopoda,Cladocera,Diplostraca,Cladoceran,omnivore,0
+155686,NA,NA,NA,NA,Physosomata,omnivore,0
+155698,180,Malacostraca,Amphipoda,Platysceloidea,Platysceloidea indet,omnivore,0
+156509,NA,NA,NA,NA,Ceratium arcticum,na,0
+156632,NA,NA,NA,NA,Coscinodiscus wailesii,na,0
+157083,NA,NA,NA,NA,Thalassiothrix longissima,na,0
+157430,NA,NA,NA,NA,Eucampia groenlandica,na,0
+157440,NA,NA,NA,NA,Helicotheca tamesis,na,0
+157683,2374,Copepoda,Calanoida,Tortanus,Tortanus spp.,carnivore,0
+157684,NA,NA,NA,NA,Tortanus discaudatus,carnivore,0
+160594,NA,NA,NA,NA,Pachysphaera spp.,na,0
+160595,NA,NA,NA,NA,Pterosperma spp. (Total),na,0
+162254,NA,NA,NA,NA,Asteromphalus spp.,na,0
+162940,NA,NA,NA,NA,Odontella obtusa,na,0
+163241,NA,NA,NA,NA,Guinardia cylindrus,na,0
+163248,NA,NA,NA,NA,Hemiaulus spp.,na,0
+163344,NA,NA,NA,NA,Pseudosolenia calcar-avis,na,0
+163728,NA,NA,NA,NA,Bacillaria paxillifera,na,0
+163780,6145,Oligotrichea,Choreotrichida,Tintinnopsis,Tintinnopsis radix,omnivore,0
+164116,NA,NA,NA,NA,Odontella mobiliensis,na,0
+172431,5571,Oligotrichea,Choreotrichida,Favella,Favella spp.,omnivore,0
+172434,NA,NA,NA,NA,Helicostomella,na,0
+172815,NA,NA,NA,NA,Hexasterias problematica,na,0
+177604,NA,NA,NA,NA,Trichodesmium spp.,na,0
+178847,NA,NA,NA,NA,Fusopsis incertae sedis,na,0
+179596,NA,NA,NA,NA,Corethron hystrix,na,0
+179785,NA,NA,NA,NA,Dactyliosolen antarcticus,na,0
+180759,198,Malacostraca,Amphipoda,Primno macropa,Primno macropa,omnivore,0
+183542,NA,NA,NA,NA,Dadayiella ganymedes,omnivore,0
+183543,NA,NA,NA,NA,Eutintinnus spp.,na,0
+183547,NA,NA,NA,NA,Climacocylis spp.,na,0
+183548,NA,NA,NA,NA,Climacocylis scalaria,na,0
+183551,NA,NA,NA,NA,Rhabdonella apophysata,na,0
+183562,NA,NA,NA,NA,Epiplocylis spp.,na,0
+183566,NA,NA,NA,NA,Salpingella spp.,na,0
+183574,NA,NA,NA,NA,Xystonella spp.,na,0
+183576,NA,NA,NA,NA,Rhabdonella spp.,na,0
+196118,141,Malacostraca,Amphipoda,Oxycephalidae,Oxycephalidae,omnivore,0
+196121,32,Malacostraca,Amphipoda,Caprelloidea,Caprelloidea,omnivore,0
+196805,NA,NA,NA,NA,Rhizosolenia acuminata,na,0
+196811,NA,NA,NA,NA,Rhizosolenia bergonii,na,0
+196813,NA,NA,NA,NA,Neodenticula seminae,na,0
+196815,NA,NA,NA,NA,Planktoniella sol,na,0
+196822,NA,NA,NA,NA,Ceratium lunula,na,0
+196824,NA,NA,NA,NA,Ceratium lamellicorne,na,0
+196830,NA,NA,NA,NA,Cystodinium spp.,na,0
+196834,NA,NA,NA,NA,Dictyocysta spp.,na,0
+196855,NA,NA,NA,NA,Xystonella treforti,na,0
+196874,1566,Copepoda,Calanoida,Paraeuchaeta,Paraeuchaeta spp.,carnivore,0
+204197,NA,NA,NA,NA,Codonellopsis spp.,na,0
+205038,229,Malacostraca,Amphipoda,Synopia,Synopia spp.,omnivore,0
+205900,3042,Malacostraca,Euphausiacea,Pseudeuphausia,Pseudeuphausia latifrons,omnivore,0
+205957,204,Malacostraca,Amphipoda,Rhabdosoma,Rhabdosoma spp,omnivore,0
+206129,4682,Polychaeta,Phyllodocida,Phalacrophorus,Phalacrophorus spp.,carnivore,0
+209714,4683,Polychaeta,Phyllodocida,Phalacrophorus pictus,Phalacrophorus pictus,carnivore,0
+211848,676,Copepoda,Calanoida,Calocalanus plumulosus,Calocalanus plumulosus f,omnivore,0
+220834,725,Copepoda,Calanoida,Canthocalanus pauper,Canthocalanus pauper,omnivore,0
+220837,2077,Copepoda,Calanoida,Rhincalanus gigas,Nauplii Rhincalanus gigas,omnivore,0
+220838,393,Copepoda,Calanoida,Acrocalanus gracilis,Acrocalanus gracilis f,omnivore,0
+220839,395,Copepoda,Calanoida,Acrocalanus monachus,Acrocalanus monachus f,omnivore,0
+220842,825,Copepoda,Calanoida,Clausocalanus minor,Clausocalanus minor f,omnivore,0
+220843,818,Copepoda,Calanoida,Clausocalanus farrani,Clausocalanus farrani f (<1.00mm),omnivore,0
+220898,2314,Copepoda,Calanoida,Temora discaudata,Temora discaudata,omnivore,0
+220900,1763,Copepoda,Calanoida,Pleuromamma indica,Pleuromamma indica f,omnivore,0
+220901,764,Copepoda,Calanoida,Centropages orsinii,Centropages orsinii,omnivore,0
+220902,753,Copepoda,Calanoida,Centropages elongatus,Centropages elongatus f,omnivore,0
+220903,755,Copepoda,Calanoida,Centropages gracilis,Centropages gracilis f,omnivore,0
+220913,696,Copepoda,Calanoida,Candacia catula,Candacia catula f,carnivore,0
+220914,717,Copepoda,Calanoida,Candacia simplex,Candacia simplex f,carnivore,0
+220916,719,Copepoda,Calanoida,Candacia truncata,Candacia truncata f,carnivore,0
+220919,620,Copepoda,Calanoida,Calanopia minor,Calanopia minor f,carnivore,0
+220921,1276,Copepoda,Calanoida,Labidocera minuta,Labidocera minuta f,carnivore,0
+220924,1274,Copepoda,Calanoida,Labidocera laevidentata,Labidocera laevidentata f,carnivore,0
+220925,1278,Copepoda,Calanoida,Labidocera moretoni,Labidocera moretoni m,carnivore,0
+220928,1815,Copepoda,Calanoida,Pontellina morii,Pontellina morii f,carnivore,0
+220944,4058,Copepoda,Cyclopoida,Oithona attenuata,Oithona attenuata f,omnivore,0
+221047,3024,Malacostraca,Euphausiacea,Euphausia recurva,Euphausia recurva,omnivore,0
+221048,NA,NA,NA,NA,Euphausia similis,omnivore,0
+221051,NA,NA,NA,NA,Euphausia spinifera,omnivore,0
+221053,NA,NA,NA,NA,Euphausia longirostris,omnivore,0
+221054,3028,Malacostraca,Euphausiacea,Euphausia vallentini,Euphausia vallentini,omnivore,0
+221055,3021,Malacostraca,Euphausiacea,Euphausia lucens,Euphausia lucens,omnivore,0
+224185,1766,Copepoda,Calanoida,Pleuromamma quadrungulata quadrungulata,Pleuromamma quadrungulata f,omnivore,0
+225072,6003,Gastropoda,Littorinimorpha,Pterotracheidae,Pterotracheid,carnivore,0
+231887,NA,NA,NA,NA,Proboscia indica,na,0
+233386,NA,NA,NA,NA,Goniodoma polyedricum,na,0
+235763,NA,NA,NA,NA,Rhabdonella spiralis,omnivore,0
+235764,NA,NA,NA,NA,Undella spp.,omnivore,0
+236216,3015,Malacostraca,Euphausiacea,Euphausia crystallorophias,Euphausia crystallorophias,omnivore,0
+236217,3025,Malacostraca,Euphausiacea,Euphausia superba,Euphausia superba,omnivore,0
+236218,NA,NA,NA,NA,Euphausia frigida,omnivore,0
+236219,3055,Malacostraca,Euphausiacea,Thysanoessa macrura,Thysanoessa macrura,omnivore,0
+236220,3027,Malacostraca,Euphausiacea,Euphausia triacantha,Euphausia triacantha,omnivore,0
+236596,153,Malacostraca,Amphipoda,Paraphronima crassipes,Paraphronima crassipes,carnivore,0
+236598,157,Malacostraca,Amphipoda,Parascelidae,Parascelidae,omnivore,0
+236618,81,Malacostraca,Amphipoda,Hemityphis,Hemityphis spp,carnivore,0
+236632,256,Malacostraca,Amphipoda,Vibilia armata,Vibilia armata,omnivore,0
+237653,NA,NA,NA,NA,Harcledo spp.,carnivore,0
+237863,3040,Malacostraca,Euphausiacea,Nyctiphanes australis,Nyctiphanes australis,omnivore,0
+237965,1121,Copepoda,Calanoida,Gaetanus tenuispinus,Gaetanus tenuispinus,carnivore,0
+237965,1121,Copepoda,Calanoida,Gaetanus tenuispinus,Gaetanus tenuispinus,carnivore,0
+237965,1121,Copepoda,Calanoida,Gaetanus tenuispinus,Gaetanus tenuispinus,carnivore,0
+237966,685,Copepoda,Calanoida,Calocalanus tenuis,Calocalanus tenuis f,omnivore,0
+237967,1709,Copepoda,Calanoida,Pareucalanus,Pareucalanus spp.,omnivore,0
+237968,1710,Copepoda,Calanoida,Pareucalanus attenuatus,Pareucalanus attenuatus,omnivore,0
+240441,NA,NA,NA,NA,Codonellopsis morchella,na,0
+247981,NA,NA,NA,NA,Pleopis polyphemoides,carnivore,0
+266258,2552,Sagittoidea,Aphragmophora,Pseudosagitta gazellae,Pseudosagitta gazellae,carnivore,0
+266545,5237,Thaliacea,Salpida,Salpa thompsoni,Salpa thompsoni,filter-feeder,1
+266712,2514,Sagittoidea,Aphragmophora,Aidanosagitta regularis,Aidanosagitta regularis,carnivore,0
+266854,2569,Sagittoidea,Aphragmophora,Solidosagitta marri,Solidosagitta marri,carnivore,0
+325345,4873,Gastropoda,Pteropoda,Pteropoda,Pteropod,na,0
+325378,90,Malacostraca,Amphipoda,Hyperiella,Hyperiella spp.,carnivore,0
+325379,NA,NA,NA,NA,Hyperiella antarctica,carnivore,0
+325381,NA,NA,NA,NA,Themisto australis,carnivore,0
+325383,91,Malacostraca,Amphipoda,Hyperiella dilatata,Hyperiella dilatata,carnivore,0
+325384,240,Malacostraca,Amphipoda,Themisto gaudichaudii,Themisto gaudichaudii,carnivore,0
+325387,NA,NA,NA,NA,Hyperiella macronyx,carnivore,0
+325406,43,Malacostraca,Amphipoda,Cyllopus lucasii,Cyllopus lucasii,omnivore,0
+325407,44,Malacostraca,Amphipoda,Cyllopus magellanicus,Cyllopus magellanicus,omnivore,0
+325408,255,Malacostraca,Amphipoda,Vibilia antarctica,Vibilia antarctica,omnivore,0
+332607,4754,Polychaeta,Phyllodocida,Tomopteris carpenteri,Tomopteris carpenteri,carnivore,0
+335010,4774,Polychaeta,Phyllodocida,Vanadis antarctica,Vanadis antarctica,carnivore,0
+341238,414,Copepoda,Calanoida,Aetideus australis,Aetideus australis,carnivore,0
+341501,NA,NA,NA,NA,Proboscia inermis,na,0
+341542,NA,NA,NA,NA,Ephemera planamembranacea,na,0
+341673,NA,NA,NA,NA,Rhabdonella amor,omnivore,0
+342434,603,Copepoda,Calanoida,Calanoides acutus,Calanoides acutus,omnivore,0
+342435,637,Copepoda,Calanoida,Calanus propinquus,Calanus propinquus,omnivore,0
+342436,638,Copepoda,Calanoida,Calanus simillimus,Calanus simillimus,omnivore,0
+342437,703,Copepoda,Calanoida,Candacia falcifera,Candacia falcifera,carnivore,0
+342438,710,Copepoda,Calanoida,Candacia maxima,Candacia maxima,carnivore,0
+342443,816,Copepoda,Calanoida,Clausocalanus brevipes,Clausocalanus brevipes,omnivore,0
+342444,822,Copepoda,Calanoida,Clausocalanus laticeps,Clausocalanus laticeps,omnivore,0
+342449,854,Copepoda,Calanoida,Ctenocalanus citer,Ctenocalanus citer,omnivore,0
+342468,1051,Copepoda,Calanoida,Euchirella rostromagna,Euchirella rostromagna f,omnivore,0
+343728,1177,Copepoda,Calanoida,Heterorhabdus austrinus,Heterorhabdus austrinus,carnivore,0
+344689,1423,Copepoda,Calanoida,Metridia gerlachei,Metridia gerlachei,omnivore,0
+344701,1480,Copepoda,Calanoida,Neocalanus tonsus,Neocalanus tonsus,omnivore,0
+344712,4072,Copepoda,Cyclopoida,Oithona frigida,Oithona frigida,omnivore,0
+344719,4113,Copepoda,Cyclopoida,Oncaea curvata,Oncaea curvata,omnivore,0
+344974,1576,Copepoda,Calanoida,Paraeuchaeta antarctica,Paraeuchaeta antarctica,carnivore,0
+344996,1579,Copepoda,Calanoida,Paraeuchaeta biloba,Paraeuchaeta biloba f,carnivore,0
+345051,1596,Copepoda,Calanoida,Paraeuchaeta exigua,Paraeuchaeta exigua,carnivore,0
+345232,1657,Copepoda,Calanoida,Paraheterorhabdus farrani,Paraheterorhabdus farrani,carnivore,0
+345234,1664,Copepoda,Calanoida,Paralabidocera antarctica,Paralabidocera antarctica,omnivore,0
+345251,1889,Copepoda,Calanoida,Pseudoamallothrix ovata,Pseudoamallothrix ovata f,omnivore,0
+345271,2074,Copepoda,Calanoida,Rhincalanidae,Rhincalanidae j,omnivore,0
+345286,2136,Copepoda,Calanoida,Scaphocalanus farrani,Scaphocalanus farrani,omnivore,0
+345365,2275,Copepoda,Calanoida,Stephos longipes,Stephos longipes,omnivore,0
+345366,2299,Copepoda,Calanoida,Subeucalanus longiceps,Subeucalanus longiceps,omnivore,0
+345368,4317,Copepoda,Cyclopoida,Triconia antarctica,Triconia antarctica,omnivore,0
+345717,419,Copepoda,Calanoida,Aetideus pseudarmatus,Aetideus pseudarmatus f,omnivore,0
+345759,606,Copepoda,Calanoida,Calanoides patagoniensis,Calanoides patagoniensis f,omnivore,0
+345760,NA,NA,NA,NA,Calanus australis,omnivore,0
+345777,697,Copepoda,Calanoida,Candacia cheirura,Candacia cheirura,carnivore,0
+345778,820,Copepoda,Calanoida,Clausocalanus ingens,Clausocalanus ingens,omnivore,0
+345781,1012,Copepoda,Calanoida,Eucalanus hyalinus,Eucalanus hyalinus f,omnivore,0
+345858,NA,NA,NA,NA,Spongodiscidae (Circular),na,0
+345911,NA,NA,NA,NA,Parundella spp.,omnivore,0
+345933,326,Copepoda,Calanoida,Acartia (Acanthacartia) fossae,Acartia fossae f,omnivore,0
+345940,331,Copepoda,Calanoida,Acartia (Acanthacartia) sinjiensis,Acartia sinjiensis f,omnivore,0
+345943,334,Copepoda,Calanoida,Acartia (Acanthacartia) tonsa,Acartia tonsa f,omnivore,0
+346026,337,Copepoda,Calanoida,Acartia (Acartia) danae,Acartia danae,omnivore,0
+346030,341,Copepoda,Calanoida,Acartia (Acartia) negligens,Acartia negligens f,omnivore,0
+346037,352,Copepoda,Calanoida,Acartia (Acartiura) longiremis,Acartia longiremis,omnivore,0
+346037,352,Copepoda,Calanoida,Acartia (Acartiura) longiremis,Acartia longiremis,omnivore,0
+346040,355,Copepoda,Calanoida,Acartia (Acartiura) simplex,Acartia simplex f,omnivore,0
+346042,357,Copepoda,Calanoida,Acartia (Acartiura) tranteri,Acartia tranteri,omnivore,0
+346049,364,Copepoda,Calanoida,Acartia (Odontacartia) amboinensis,Acartia amboinensis f,omnivore,0
+346050,365,Copepoda,Calanoida,Acartia (Odontacartia) australis,Acartia australis f,omnivore,0
+346051,366,Copepoda,Calanoida,Acartia (Odontacartia) bispinosa,Acartia bispinosa f,omnivore,0
+346059,374,Copepoda,Calanoida,Acartia (Odontacartia) pacifica,Acartia pacifica,omnivore,0
+346148,521,Copepoda,Calanoida,Bestiolina,Bestiolina spp. f,omnivore,0
+346152,526,Copepoda,Calanoida,Bestiolina similis,Bestiolina similis f,omnivore,0
+346200,611,Copepoda,Calanoida,Calanopia aurivilli,Calanopia aurivilli f,carnivore,0
+346234,695,Copepoda,Calanoida,Candacia bradyi,Candacia bradyi f,carnivore,0
+346235,700,Copepoda,Calanoida,Candacia discaudata,Candacia discaudata f,carnivore,0
+346252,744,Copepoda,Calanoida,Centropages australiensis,Centropages australiensis,omnivore,0
+346255,752,Copepoda,Calanoida,Centropages elegans,Centropages elegans f,omnivore,0
+346283,3737,Copepoda,Harpacticoida,Clytemnestra farrani,Clytemnestra farrani f,omnivore,0
+346286,3739,Copepoda,Harpacticoida,Clytemnestra longipes,Clytemnestra longipes f,omnivore,0
+346293,3748,Copepoda,Cyclopoida,Copilia hendorffi,Copilia hendorffi f,omnivore,0
+346298,3762,Copepoda,Cyclopoida,Corycaeus vitreus,Corycaeus vitreus m,carnivore,0
+346358,3828,Copepoda,Cyclopoida,Dioithona oculata,Dioithona oculata f,omnivore,0
+346360,3830,Copepoda,Cyclopoida,Dioithona rigida,Dioithona rigida f,omnivore,0
+346438,1018,Copepoda,Calanoida,Euchaeta indica,Euchaeta indica f,carnivore,0
+346439,1019,Copepoda,Calanoida,Euchaeta longicornis,Euchaeta longicornis f,carnivore,0
+346441,1022,Copepoda,Calanoida,Euchaeta marinella,Euchaeta marinella f,carnivore,0
+346444,1028,Copepoda,Calanoida,Euchaeta rimana,Euchaeta rimana f,carnivore,0
+346476,3866,Copepoda,Cyclopoida,Farranula concinna,Farranula concinna f,carnivore,0
+346477,3868,Copepoda,Cyclopoida,Farranula gibbula,Farranula gibbula f,carnivore,0
+346507,3879,Copepoda,Harpacticoida,Goniopsyllus,Goniopsyllus spp. f,omnivore,0
+346538,1189,Copepoda,Calanoida,Heterorhabdus lobatus,Heterorhabdus lobatus f,carnivore,0
+346588,1255,Copepoda,Calanoida,Labidocera cervi,Labidocera cervi f,carnivore,0
+346589,1256,Copepoda,Calanoida,Labidocera dakini,Labidocera dakini f,carnivore,0
+346593,1261,Copepoda,Calanoida,Labidocera farrani,Labidocera farrani f,carnivore,0
+346613,1290,Copepoda,Calanoida,Labidocera tasmanica,Labidocera tasmanica f,carnivore,0
+347746,1723,Copepoda,Calanoida,Parvocalanus,Parvocalanus spp. f,omnivore,0
+354022,4107,Copepoda,Cyclopoida,Oncaea clevei,Oncaea clevei complex f,omnivore,0
+354594,1711,Copepoda,Calanoida,Pareucalanus langae,Pareucalanus langae f,omnivore,0
+354875,1798,Copepoda,Calanoida,Pontella novaezealandiae,Pontella novaezealandiae f,carnivore,0
+355135,1988,Copepoda,Calanoida,Pseudodiaptomus baylyi,Pseudodiaptomus baylyi f,omnivore,0
+355172,2025,Copepoda,Calanoida,Pseudodiaptomus mertoni,Pseudodiaptomus mertoni f,omnivore,0
+355505,2155,Copepoda,Calanoida,Scolecithricella globulosa,Scolecithricella globulosa m,omnivore,0
+355934,2307,Copepoda,Calanoida,Sulcanus conflictus,Sulcanus conflictus f,carnivore,0
+356829,2079,Copepoda,Calanoida,Rhincalanus rostrifrons,Rhincalanus rostrifrons f,omnivore,0
+357533,604,Copepoda,Calanoida,Calanoides brevicornis,Calanoides breivcornis f,omnivore,0
+358328,3839,Copepoda,Cyclopoida,Ditrichocorycaeus asiaticus,Ditrichocorycaeus asiaticus f,carnivore,0
+359743,4169,Copepoda,Cyclopoida,Onychocorycaeus agilis,Onychocorycaeus agilis f,carnivore,0
+359744,4174,Copepoda,Cyclopoida,Onychocorycaeus pacificus,Onychocorycaeus pacificus f,carnivore,0
+359879,1645,Copepoda,Calanoida,Paraeuchaeta tonsa,Paraeuchaeta tonsa,carnivore,0
+360047,1714,Copepoda,Calanoida,Pareucalanus sewelli,Pareucalanus sewelli f,omnivore,0
+360051,1725,Copepoda,Calanoida,Parvocalanus crassirostris,Parvocalanus crassirostris f,omnivore,0
+360054,1730,Copepoda,Calanoida,Parvocalanus serratipes,Parvocalanus cf. serratipes f,omnivore,0
+360246,1827,Copepoda,Calanoida,Pontellopsis krameri,Pontellopsis krameri f,carnivore,0
+360662,2297,Copepoda,Calanoida,Subeucalanus dentatus,Subeucalanus dentatus f,omnivore,0
+360846,4164,Copepoda,Cyclopoida,Oncaea waldemari,Oncaea waldemari f,omnivore,0
+361576,2182,Copepoda,Calanoida,Scolecitrichopsis ctenopus,Scolecitrichopsis ctenopus m,omnivore,0
+361875,4144,Copepoda,Cyclopoida,Oncaea paraclevei,Oncaea paraclevei f,omnivore,0
+363803,NA,NA,NA,NA,Oncaea venusta typica,omnivore,0
+363904,861,Copepoda,Calanoida,Delibus,Delibus spp. f,omnivore,0
+363905,862,Copepoda,Calanoida,Delibus nudus,Delibus nudus f,omnivore,0
+367245,4062,Copepoda,Cyclopoida,Oithona brevicornis brevicornis,Oithona brevicornis f,omnivore,0
+370366,NA,NA,NA,NA,Chaetoceros(Hyalochaete) spp.,na,0
+370367,NA,NA,NA,NA,Chaetoceros(Phaeoceros) spp.,na,0
+382879,NA,NA,NA,NA,Jasus edwardsii,carnivore,0
+387338,6004,Gastropoda,Littorinimorpha,Pterotracheoidea,Pterotracheoidea,carnivore,0
+392346,NA,NA,NA,NA,Munida gregaria,omnivore,0
+394447,NA,NA,NA,NA,Hemicyclops spp. j,omnivore,0
+411917,4842,Gastropoda,Pteropoda,Hydromylidae,Hydromylidae,carnivore,0
+416150,NA,NA,NA,NA,Xystonellopsis spp.,omnivore,0
+416442,329,Copepoda,Calanoida,Acartia (Acanthacartia) pietschmani,Acartia pietschmani f,omnivore,0
+417136,NA,NA,NA,NA,Codonella galea,omnivore,0
+417162,NA,NA,NA,NA,Codonellopsis orthoceras,omnivore,0
+417228,NA,NA,NA,NA,Salpingella acuminata,omnivore,0
+417266,NA,NA,NA,NA,Xystonellopsis heros,omnivore,0
+418109,NA,NA,NA,NA,Orcadia riedeli,na,0
+421612,55,Malacostraca,Amphipoda,Dairella californica,Dairella californica,omnivore,0
+427448,NA,NA,NA,NA,Codonellopsis ostenfeldi,omnivore,0
+427576,NA,NA,NA,NA,Amplectella tricollaria,omnivore,0
+427625,NA,NA,NA,NA,Xystonella lohmanni,omnivore,0
+514315,NA,NA,NA,NA,Nematocarcinus longirostris,omnivore,0
+533451,4875,Gastropoda,Pteropoda,Spongiobranchaea australis,Spongiobranchaea australis,carnivore,0
+558776,NA,NA,NA,NA,Echinospira larva,na,0
+582421,NA,NA,NA,NA,Radiolarian A,na,0
+587513,4198,Copepoda,Harpacticoida,Peltidiinae,Peltidiinae,omnivore,0
+596242,1759,Copepoda,Calanoida,Pleuromamma abdominalis abdominalis,Pleuromamma abdominalis,omnivore,0
+596242,1759,Copepoda,Calanoida,Pleuromamma abdominalis abdominalis,Pleuromamma abdominalis,omnivore,0
+613575,NA,NA,NA,NA,Proboscia curvirostris,na,0
+712788,NA,NA,NA,NA,Pleuragramma antarctica,na,0
+714164,4795,Gastropoda,Pteropoda,Clione antarctica,Clione limacina antarctica,omnivore,0
+716449,627,Copepoda,Calanoida,Calanus australis australis,Calanus australis,omnivore,0
+720560,2415,Copepoda,Calanoida,Tortanus (Tortanus) gracilis,Tortanus gracilis f,carnivore,0
+720586,2413,Copepoda,Calanoida,Tortanus (Tortanus) barbatus,Tortanus barbatus f,carnivore,0
+723504,NA,NA,NA,NA,Cyttarocylis ampulla,omnivore,0
+732976,NA,NA,NA,NA,Tintinnina,na,0
+734517,4090,Copepoda,Cyclopoida,Oithona setigera setigera,Oithona setigera f,omnivore,0
+734518,4092,Copepoda,Cyclopoida,Oithona simplex simplex,Oithona simplex f,omnivore,0
+745865,1542,Copepoda,Calanoida,Paracalanus parvus parvus,Paracalanus parvus f,omnivore,0
+745865,1542,Copepoda,Calanoida,Paracalanus parvus parvus,Paracalanus parvus f,omnivore,0
+746007,1767,Copepoda,Calanoida,Pleuromamma robusta robusta,Pleuromamma robusta,omnivore,0
+764978,3840,Copepoda,Cyclopoida,Ditrichocorycaeus aucklandicus,Ditrichocorycaeus aucklandicus f,carnivore,0
+764980,3842,Copepoda,Cyclopoida,Ditrichocorycaeus dahli,Ditrichocorycaeus dahli f,carnivore,0
+764981,3843,Copepoda,Cyclopoida,Ditrichocorycaeus erythraeus,Ditrichocorycaeus erythraeus f,carnivore,0
+765217,4350,Copepoda,Cyclopoida,Urocorycaeus longistylis,Urocorycaeus longistylis f,carnivore,0
+841190,NA,NA,NA,NA,Ceratium bucephalum,na,0
+847452,1011,Copepoda,Calanoida,Eucalanus elongatus elongatus,Eucalanus elongatus f,omnivore,0
+850801,1427,Copepoda,Calanoida,Metridia lucens lucens,Metridia lucens,omnivore,0
+883864,NA,NA,NA,NA,Belzebub spp.,carnivore,0
+883869,NA,NA,NA,NA,Lucifer penicillifer m,carnivore,0
+1381349,3857,Copepoda,Cyclopoida,Ergasilida,Nauplii poecilostomatoida / cyclopoid,omnivore,0
+1384339,844,Copepoda,Calanoida,Cosmocalanus darwinii darwinii,Cosmocalanus darwinii,omnivore,0
+1436445,1762,Copepoda,Calanoida,Pleuromamma gracilis gracilis,Pleuromamma gracilis,omnivore,0
+1458653,1272,Copepoda,Calanoida,Labidocera kroyeri kroyeri,Labidocera kroyeri f,carnivore,0
+1461626,815,Copepoda,Calanoida,Clausocalanus arcuicornis arcuicornis,Clausocalanus arcuicornis f,omnivore,0
+1464945,1535,Copepoda,Calanoida,Paracalanus aculeatus aculeatus,Paracalanus aculeatus f,omnivore,0
+1488083,2076,Copepoda,Calanoida,Rhincalanus cornutus cornutus,Rhincalanus cornutus,omnivore,0
+1509944,2161,Copepoda,Calanoida,Scolecithricella minor minor,Scolecithricella minor f,omnivore,0
+1509944,2161,Copepoda,Calanoida,Scolecithricella minor minor,Scolecithricella minor f,omnivore,0
+1649789,NA,NA,NA,NA,Hansarsia megalops,omnivore,0
+1740301,NA,NA,NA,NA,Medusa,carnivore,0
