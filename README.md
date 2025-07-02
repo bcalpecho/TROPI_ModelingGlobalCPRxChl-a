@@ -1,4 +1,4 @@
-# Modeling Global CPR across Chlorophyll-a
+# Modeling Global CPR 
 
 Repository for MSc thesis project on zooplankton trophic groups across the global productivity gradient.
 The project used the combined data of CPR Surveys of AusCPR, North Atlantic CPR, North Pacific CPR, and Southern Ocean CPR. 
