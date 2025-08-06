@@ -14,4 +14,4 @@ For the chlorophyll-a data, the netcdf files of OC-CCI can be downloaded through
 * ```4_model_globalCPR.R``` generates the model predictions.
 * ```5_predict_globalCPR.R``` substitutes the chl-a predictions under SSP scenarios to the model.
 * ```0_wrangling_CPR.R``` additional functions for visualizing and preparing the zooplankton data.
- Save outputs in ```./Output``` folder.
+Save outputs in ```./Output``` folder.
