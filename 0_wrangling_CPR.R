@@ -25,26 +25,31 @@ library(rnaturalearth)
 #socpr - 10.26179/r7sm-9y85
 
 # set date for version control of output
-date <- "28072025"
+date <- "07112025"
 
 #01 to map global CPR
 
-cpr_metadata <- list.files(path = "data_input/CPR_on-process/", pattern = "*\\metadata.csv", full.names = TRUE)
+cpr_meta <- list.files(path = "data_input/CPR_on-process/", pattern = "*\\metadata.csv", full.names = TRUE)
 
 map_globalcpr <- function(file.list){
   #extract metadata  
   filenames <- basename(file.list)
-  cpr <- data.frame()  
-    #loop through each survey
+  cpr <- data.frame(matrix(ncol=5,nrow=0, dimnames=list(NULL, c("survey", "sample_id", "latitude", "longitude", "sampleTime_utc"))))
+  cpr[,1:2] <- lapply(cpr[,1:2], as.character) # survey and sample id
+  cpr[,3:4] <- lapply(cpr[,3:4], as.double) # latitude and longitude
+  cpr[,5] <- as.POSIXct(cpr[,5]) #sample time UTC
+  
+  
+  #loop through each survey
     for(i in 1:length(filenames)){
     file_survey <- str_extract(filenames[i], "(?<=_)[^_]+")
     print(paste("Survey: ",file_survey, sep=""))
     
     cpr_metadata <- read_csv(file.list[i]) %>% 
       mutate(survey = file_survey) %>% 
-      select("survey","sample_id","latitude","longitude")
+      select("survey","sample_id","latitude","longitude","sampleTime_utc")
     
-    print(i)
+    print(paste("File No.", i, sep=""))
     #integrate into a global cpr
     cpr <- cpr %>% 
       rows_insert(cpr_metadata, by = "survey") 
@@ -52,7 +57,8 @@ map_globalcpr <- function(file.list){
     
     #identify coordinates 
     cpr <- cpr %>% 
-      st_as_sf(coords = c("longitude", "latitude"), crs = 4326)
+      st_as_sf(coords = c("longitude", "latitude"), crs = 4326) %>% 
+      rename("Survey" = "survey")
     
     #set projection 
     world_projection <- '+proj=eqearth +lon_0=0 +datum=WGS84 +units=m +no_defs'
@@ -60,25 +66,26 @@ map_globalcpr <- function(file.list){
     world <- ne_coastline(scale = "medium")
     
     #to plot
-    globalcpr_map <- tm_shape(world) + 
+    globalcpr_map <- tm_shape(world) +
       tm_polygons(col = "white") +
-      tm_shape(mba_cpr, projection = world_projection, raster.warp = TRUE) +
-      tm_dots(col = "Survey", color = "Survey",
-              title = "CPR Survey", alpha = 0.5, icon.scale = 3, labels.size = 20) + 
+      tm_shape(cpr, crs = world_projection, raster.warp = TRUE) +
+      tm_dots(col = "Survey", fill_alpha = 0.5, size = 0.3,
+              labels = c("Australian CPR", "Atlantic CPR", "North Pacific CPR", "SCAR Southern Ocean CPR")) + 
       tm_graticules(alpha = 0.5, 
                     x = c(-180, -150, -120, -90, -60, -30, 0, 30, 60, 90, 120, 150, 180), 
                     y = c(-90, -60, -30, 0, 30, 60, 90), 
-                    labels.size = 1) 
-    #tm_compass(type = "8star", position = c("left", "center")) 
+                    labels.size = 1) +
+      tm_legend(position = c("left", "center"),
+                text.size = 1.2, title.size = 1.4)
     
     #to export plot
     tmap_save(globalcpr_map, filename=paste("Output/map/Global/Global-CPR-map_",date,".png",sep=""),
               width = 400,
               height = 200,
               units = "mm",
-              dpi = 216)
+              dpi = 400)
 }
-map_globalcpr(cpr_metadata)
+map_globalcpr(cpr_meta)
 
 #01.B to map survey-specific CPR
 #Derivative of global cpr into survey-specific CPR
@@ -90,7 +97,7 @@ map_globalcpr(cpr_metadata)
       select("Survey","Sample_ID","latitude","longitude") 
     
     mba_natlantic <- read_csv("data_input/CPR_on-process/cpr_natlantic_metadata.csv") %>% 
-      mutate(Survey = "North Atlantic CPR") %>% 
+      mutate(Survey = "Atlantic CPR") %>% #update North Atlantic to Atlantic 05.11.2025
       select("Survey","sample_id","latitude","longitude") 
     
     auscpr <- read_csv("data_input/CPR_on-process/cpr_auscpr_metadata.csv") %>% 
@@ -201,7 +208,7 @@ map_globalcpr(cpr_metadata)
     
     #identify cpr belonging to North Atlantic and North Pacific CPR
     mba_npacific <- mba_final %>% 
-      filter(longitude >= 100 | longitude <= -100) %>% 
+      filter(longitude >= 100 | longitude <= -100) %>%
       mutate(survey = "North Pacific CPR") 
     
     mba_natlantic <- mba_final %>% 
@@ -219,8 +226,8 @@ map_globalcpr(cpr_metadata)
       select(c("survey","latitude","longitude","sample_id","sampleTime_utc"))
     
     #export 
-    write_csv(mba_natlantic, "data_input/CPR_on-process/cpr_natlantic_complete.csv")
-    write_csv(mba_npacific, "data_input/CPR_on-process/cpr_npacific_complete.csv")
+    write_csv(mba_natlantic %>% select(-c(survey, midpoint_date_gmt, latitude, longitude, chlorophyll_index, sampleTime_utc)), "data_input/CPR_on-process/cpr_natlantic_complete.csv")
+    write_csv(mba_npacific %>% select(-c(survey, midpoint_date_gmt, latitude, longitude, chlorophyll_index, sampleTime_utc)), "data_input/CPR_on-process/cpr_npacific_complete.csv")
     
     write_csv(mba_natlantic_metadata, "data_input/CPR_on-process/cpr_natlantic_metadata.csv")
     write_csv(mba_npacific_metadata, "data_input/CPR_on-process/cpr_npacific_metadata.csv")
@@ -229,13 +236,13 @@ map_globalcpr(cpr_metadata)
 
     #zoop_list is any list with aphiaID
     #00 get abundance list 
-    file.list <- list.files(path = "data_input/CPR_on-process/", pattern = "*\\complete_10062025.csv", full.names = TRUE)
+    file.list <- list.files(path = "data_input/CPR_on-process/", pattern = "*\\complete.csv", full.names = TRUE)
     #set date for version control
-    date <- "30062025"
+    date <- "20082025"
     
     #apply function compute_abundance to file.list
     compute_abundance <- function(zoop_list){
-      cpr_aphia_list <- read_csv("data_input/traits/TraitTable_25-06-2025.csv") %>% select(c(aphiaID, scientificName)) %>%  rename(taxon = scientificName)
+      cpr_aphia_list <- read_csv("data_input/traits/TG_trait-table_20082025.csv") %>% select(c(aphiaID, scientificName)) %>%  rename(taxon = scientificName)
       cpr_aphia_list$aphiaID <- as.factor(cpr_aphia_list$aphiaID)
       survey <- c("auscpr","natlantic","npacific","socpr")
       
@@ -246,7 +253,7 @@ map_globalcpr(cpr_metadata)
         #read in cpr abundance data
         cpr <- read_csv(zoop_list[i], col_names = T, name_repair = "minimal")
         #select for abundances (columns with aphiaID)
-        cpr_dat <- cpr %>%  select(-c(Sample_ID))
+        cpr_dat <- cpr %>%  select(-c(sample_id)) #double check the metadata in each csv file
         
         # #OPTIONAL: remove CPR samples pre-dating 1997 September
         # cpr_dat <- cpr_dat %>% 
@@ -254,7 +261,7 @@ map_globalcpr(cpr_metadata)
         # natlantic_dat_1997 <- cpr %>% 
         #   filter(Year == 1997 & Month >= 9)
         
-        cpr_sums <- colSums(cpr_dat) %>% 
+        cpr_sums <- colSums(cpr_dat, na.rm=T) %>% 
           data.frame() %>% rownames_to_column(var = "aphiaID") %>% rename("totalAbundance"=".") %>% 
           left_join(cpr_aphia_list, by="aphiaID") %>% 
           group_by(aphiaID, taxon) %>%
@@ -266,7 +273,7 @@ map_globalcpr(cpr_metadata)
         write_rds(cpr_sums, paste("Output/data/abundance/",survey[i],"_",date,".rds",sep=""))
       }
       
-      traits_df <- read_csv("data_input/traits/TraitTable_25-06-2025.csv")
+      traits_df <- read_csv("data_input/traits/TG_trait-table_20082025.csv")
       traits_df$aphiaID <- as.factor(traits_df$aphiaID)
       
       #combine each survey-specific abundance to the trait table
@@ -286,7 +293,7 @@ map_globalcpr(cpr_metadata)
         mutate(global_relativeAbundance = global_totalAbundance/sum(global_totalAbundance)) %>%
         relocate(c("global_totalAbundance", "global_relativeAbundance"),.before = "auscpr_totalAbundance")
       
-      write_csv(traits_df, paste("Output/traits/TG_trait-table-",date,".csv",sep=""))
+      write_csv(traits_df, paste("Output/traits/TG_trait-table_withAbundances_",date,".csv",sep=""))
     }  
     
     compute_abundance(file.list)  
